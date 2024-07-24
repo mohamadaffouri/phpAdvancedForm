@@ -11,6 +11,7 @@
     <div class="container my-5">
         <h2>List of Clients</h2>
         <a class="btn btn-primary" href="create.php" role="button">New client</a>
+        <a class="btn btn-secondary" href="logout.php" role="button">Logout</a>
         <br><br>
         <table class="table">
             <thead>
